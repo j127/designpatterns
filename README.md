@@ -2,13 +2,13 @@
 
 Working through some JavaScript design patterns.
 
-== Types ==
+## Types
 
 * Creational
 * Structural (relationships)
 * Behavioral (communication)
 
-== Privacy ==
+## Privacy
 
 Something like this:
 
